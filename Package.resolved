@@ -30,10 +30,10 @@
       },
       {
         "package": "Solana",
-        "repositoryURL": "https://github.com/metaplex-foundation/Solana.Swift.git",
+        "repositoryURL": "https://github.com/tredds/Solana.Swift.git",
         "state": {
-          "branch": "2.0.2",
-          "revision": "f7bd54eee1ccf31f717b1a98b64b9ae12413e66d",
+          "branch": "master",
+          "revision": "24cabbe58dc4fba77c2350b576fd75e7b654c645",
           "version": null
         }
       },
@@ -51,8 +51,8 @@
         "repositoryURL": "https://github.com/daltoniam/Starscream.git",
         "state": {
           "branch": null,
-          "revision": "df8d82047f6654d8e4b655d1b1525c64e1059d21",
-          "version": "4.0.4"
+          "revision": "c6bfd1af48efcc9a9ad203665db12375ba6b145a",
+          "version": "4.0.8"
         }
       },
       {
